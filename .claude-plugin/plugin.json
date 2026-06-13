@@ -1,10 +1,11 @@
 {
-  "name": "patent-disclosure-skill",
+  "name": "gpt-image-2",
   "version": "0.1.0",
-  "description": "中国专利挖掘与交底书生成全流程：项目扫描→专利点分析→联网查新→交底书(MD+Word)→自检",
-  "author": { "name": "MuseLinn", "url": "https://github.com/MuseLinn" },
-  "repository": "https://github.com/MuseLinn/MuseLinn-patent-disclosure-skill",
+  "description": "GPT Image 2 skill — generate, edit, compose images via OpenAI-compatible API. Originally from jiangmuran/claude-image, maintained with fixes by MuseLinn",
+  "author": { "name": "jiangmuran", "url": "https://github.com/jiangmuran/claude-image" },
+  "contributors": [{ "name": "MuseLinn", "url": "https://github.com/MuseLinn" }],
+  "repository": "https://github.com/MuseLinn/gpt-image-2",
   "license": "MIT",
-  "keywords": ["patent", "disclosure", "prior-art", "cnipa"],
+  "keywords": ["image", "generation", "gpt-image", "dalle", "poster"],
   "skills": ["./"]
 }
